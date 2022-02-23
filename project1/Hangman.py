@@ -25,12 +25,14 @@ def main():
             print('Word: \n')
             for i in range(len(word)):
                 print('_')
+
+        #print letters already guessed
             
             done = True
-def check_latter(let, user_word):
+def check_letter(let, user_word):
     if let.upper in alphabet:
         if 
-
+            
 
 
 
